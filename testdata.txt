@@ -1,0 +1,29 @@
+{
+    "name": "barney",
+    "email": "stinson@gmail.com",
+    "password": "bluefrench",
+    "passwordConfirm": "bluefrench"
+}
+mess
+{
+    "name": "gordon",
+    "email": "ramsay@gmail.com",
+    "password": "tiliramsay",
+    "passwordConfirm": "tiliramsay",
+    "hostel":  "H"
+}
+{
+    "name": "bejamin",
+    "email": "frnklin@gmail.com",
+    "password": "silversurfer",
+    "passwordConfirm": "silversurfer",
+    "hostel":  "H"
+}
+{
+    "name": "house",
+    "email": "cuddy@gmail.com",
+    "phone": "9871995166",
+    "password": "medicaldoctor",
+    "passwordConfirm": "medicaldoctor",
+    "hostel":  "H"
+}

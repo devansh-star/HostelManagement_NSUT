@@ -1,0 +1,18 @@
+POST http://localhost:3000/hms/users/forgot-password HTTP/1.1
+content-type: application/json
+
+{
+    "email": "please@gmail.com"
+}
+
+###
+
+POST http://localhost:3000/hms/maintenance/ HTTP/1.1
+content-type: application/json
+
+{
+    "problem": "water stoppage",
+    "description": "due to some problems in pipeline, water supply stopped",
+    "exp": "2",
+    "hostel": "A"
+}
